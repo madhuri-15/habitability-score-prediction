@@ -75,5 +75,5 @@ We will use standard Machine Learning & Data Science libraries
 - Scikit-learn
 
 ### Notebook
-- [Part - 1 : Exploratory Data Analysis]()
-- [Part - 2 : Model Selection]()
+- [Part - 1 : Exploratory Data Analysis](https://github.com/madhuri-15/habitability-score-prediction/blob/main/Part%20I%20-%20Exploratory%20Data%20Analysis.ipynb)
+- [Part - 2 : Model Selection & Predictions](https://github.com/madhuri-15/habitability-score-prediction/blob/main/Part%20II%20-%20Model%20Selection%20%26%20Prediction.ipynb)
